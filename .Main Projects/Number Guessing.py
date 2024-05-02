@@ -1,11 +1,3 @@
-
-                    
-                    
-            
-
-        
-
-
 print("Welcome to my Number guessing game !")
 print("in this game , you have 5 attempts to guess the number which the coumputer guessed")
 print("wish you good luck !")
@@ -34,15 +26,3 @@ if Start_Command == "-o gc start" :
                 else :
                     print("You got it")
                     break
-                
-
-
-
-
-
-
-
-
-
-
-
